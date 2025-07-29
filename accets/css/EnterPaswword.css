@@ -1,0 +1,38 @@
+.Signin-dad{
+    border: 1px solid #5B86E5;
+}
+.Signin-enter{
+    padding-left: 50px;
+       padding-right: 50px;
+}
+.btn1-signin{
+margin-top: 20px;
+margin-left: 40px;
+ width: 350px;
+    height: 40px;
+  background-color: #5B86E5;
+  color: white;
+}
+.btn1-signin:hover{
+    color: red;
+}
+.rigth img{
+    padding-bottom: 150px;
+}
+.rigth h2{
+    font-family: Volkhov;
+}
+.form input{
+  width: 450px;
+    height: 50px;
+ border-top: none;
+ border-left: none;
+ border-right: none;
+ outline: none;
+}
+.rigth h6{
+   margin-left: 330px; 
+   padding-top:120px ;
+   font-size: 13px;
+}
+

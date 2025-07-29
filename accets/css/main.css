@@ -1,0 +1,214 @@
+/* navbar */
+.navbar{
+    padding-left: 50px;
+       padding-right: 70px;
+}
+.navbar img{
+    animation:rotate  infinite 5s alternate;
+}
+@keyframes rotate {
+    from{
+        transform: rotate(0deg);
+    }
+    to{
+        transform: rotate(360deg);
+    }
+}
+.black-color{
+    color:#484848;
+}
+.navbar-nav .navhover:hover{
+    color:red;
+}
+.fs-6{
+    font-size: 12px;
+}
+.test-shadow{
+    box-shadow: 0 20px 35px 0 #000000,.15;
+}
+
+/* header */
+
+.middle{
+    display: flex;
+    flex-direction: column;
+   
+}
+
+.middle .a1{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+}
+.middle h3{
+    color: #484848;
+    font-size: 18px;
+}
+.middle button{
+height: 50px;
+width: 150px;
+background-color: black;
+color: white;
+
+}
+.iconss{
+    position: relative;
+}
+
+.iconss a{
+position: absolute;
+top: 400px;
+left: -35px;
+}
+
+
+/* client */
+.client{
+    display: flex;
+padding: 0 130px;
+margin-right: 110px;
+
+}
+/* New-rrivales */
+.New-rrivales p{
+    width:550px;
+margin: auto;
+    color:#8A8A8A;
+}
+.navbar-newarrival{
+    color: #8A8A8A;
+    background-color: #FAFAFA;
+    border-radius: 4px;
+    padding: 10px 20px;
+}
+.img1{
+    background-color: FFFFFF;
+border: .5px solid wheat;
+}
+.New-rrivales a:hover{
+background-color: #000000;
+}
+.under-img{
+    position: relative;
+}
+.details {
+line-height: 1px;
+position: absolute;
+top: 1px;
+}
+.details h2{
+    font-size: 20px;
+}
+.details span{
+    font-size: 10px;
+}
+.stars{
+   position: absolute;
+   top: 1px;
+   right: 10px;
+}
+.star-span{
+    font-size: 13px;
+}
+.Almost-out{
+margin-left: auto;
+   font-size: 10px;
+   color: #FF4646;
+   margin-top: 10px;
+}
+.Almost-out a{
+    text-decoration: none;
+}
+.button-newrrival-btn{
+    width: 130px;
+    height: 40px;
+    text-align: center;
+    color: white;
+ text-decoration: none;
+}
+
+
+
+
+/* becke-blender */
+.becke-blender .right{
+background-image: url('./../image/becky-blender/img2.webp');
+background-position: center;
+background-size: cover;
+}
+.becke-blender .right1{
+    margin-left: 80px;
+}
+.becke-blender .right1 p{
+    color: #767676;
+}
+.becke-blender .right1 .a1{
+    color: black;
+
+}
+
+
+
+
+
+/* follows-instagram */
+.follows-instagram p{
+    width: 450px;
+    margin: auto;
+    color: #8A8A8A;
+    font-size: 13px;
+}
+/* what-custemry */
+.what-custemry p{
+color: #8A8A8A;
+font-size: 13px;
+}
+.Card .img2-two{
+    box-shadow: 0 30px 60px 0 #2E213D;
+}
+.carousel-indicators [data-bs-target]{
+    height: 30px;
+    border-radius: 50%;
+}
+.carousel-control-next-icon, .carousel-control-prev-icon {
+height: 2rem;
+border-radius: 50%;
+}
+
+/* sucscibe */
+.subscribe .moddle{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
+.subscribe .moddle h2{
+font-family: Volkhov;
+}
+.subscribe .moddle p{
+    color: #8A8A8A;
+}
+.subscribe .moddle input{
+border:none;
+height: 50px;
+box-shadow: 0 32.6px 13px 0 #000000,2;
+background-color: #FAFAFA;
+}
+.subscribe input::placeholder{
+    color: blue;
+    padding-left: 20px;
+}
+.subscribe .button-subsribe-btn a{
+    height: 50px;
+    width: 200px;
+    margin: auto;
+    padding-top: 10px;
+    margin-top: 20px;
+}
+
+
+
+
+/* footer */
+.footer address{
+margin-left: 370px;
+}

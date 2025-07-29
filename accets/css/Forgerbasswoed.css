@@ -1,0 +1,37 @@
+.form-dad{
+    flex-direction: column;
+}
+.Signin-dad-forget{
+    border: 1px solid #5B86E5;
+}
+.form-dad input{
+ width:300px;
+    height: 50px;
+outline: none;
+border-top: none;
+border-left: none;
+border-right: none;
+}
+.rigthforget-btn{
+     width: 350px;
+    height: 40px;
+    color: white;
+margin-left: 120px;
+}
+.rigth-forget h2{
+    font-family: Volkhov;
+}
+.rigth-forget .login-forget{
+text-decoration: none;
+margin-left: 200px;
+color: #000000;
+font-size: 13px;
+}
+.login-forget span{
+    color: #5B86E5;
+}
+.Signin-dad-forget h6{
+   margin-left: 400px; 
+   padding-top:200px ;
+   font-size: 13px;
+}

@@ -1,0 +1,34 @@
+.par-Cart{
+    font-size: 30px;
+    font-weight: 700;
+}
+
+/* sucscibe */
+.subscribe .moddle{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
+.subscribe .moddle h2{
+font-family: Volkhov;
+}
+.subscribe .moddle p{
+    color: #8A8A8A;
+}
+.subscribe .moddle input{
+border:none;
+height: 50px;
+box-shadow: 0 32.6px 13px 0 #000000,2;
+background-color: #FAFAFA;
+}
+.subscribe input::placeholder{
+    color: blue;
+    padding-left: 20px;
+}
+.subscribe .button-subsribe-btn a{
+    height: 50px;
+    width: 200px;
+    margin: auto;
+    padding-top: 10px;
+    margin-top: 20px;
+}

@@ -1,0 +1,47 @@
+.Signin-dad{
+    justify-content:space-between;
+}
+.OR h3{
+margin-left: 180px;
+}
+
+.form input{
+  width: 200px;
+    height: 50px;
+ border-top: none;
+ border-left: none;
+ border-right: none;
+ outline: none;
+ font-size: 12px;
+ color: #9D9D9D;
+}
+.Signin-dad{
+    padding-top: 10px;
+    border: 1px solid blue;
+  gap: 200px;
+
+}
+.btn1-signin{
+margin-top: 20px;
+margin-left: 40px;
+ width: 350px;
+    height: 40px;
+    color: azure;
+}
+
+.rigth h2{
+    font-family: Volkhov;
+}
+.rigth h5{
+     margin-left: 120px;
+    font-size: 13px;
+    color:  #5B86E5;
+}
+.rigth h6{
+   margin-left: 330px; 
+   padding-top:90px ;
+   font-size: 13px;
+}
+.a-forget{
+text-decoration: none;
+}

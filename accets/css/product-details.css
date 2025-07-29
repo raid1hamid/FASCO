@@ -1,0 +1,131 @@
+/* header-product-details */
+.star-product-details:active{
+background-color: yellow;
+}
+.right-prduct-details span{
+    font-size: 17px;
+    color: #666666;
+}
+.right-prduct-details .buttons-right-detialis-Plus{
+    margin: auto;
+    width: 100px;
+    background-color:white;
+    
+}
+.right-prduct-details .buttons-right-detialis-Plus .span1{
+ padding-right:30px;
+ color: black;
+}
+.right-prduct-details .buttons-right-detialis-Plus .span2{
+ padding-left:30px;
+  color: black;
+}
+.right-prduct-details .buttons-right-detialis-Plus2{
+    margin: auto;
+    width: 300px;
+    background-color:white;
+  
+}
+
+/* becke-blender */
+.becke-blender{
+    margin-top: 10px;
+}
+.becke-blender .right{
+background-image: url('./../image/becky-blender/img2.webp');
+background-position: center;
+background-size: cover;
+}
+.becke-blender .right1{
+    margin-left: 80px;
+}
+.becke-blender .right1 p{
+    color: #767676;
+}
+.becke-blender .right1 .a1{
+    color: black;
+
+}
+
+
+/* sucscibe */
+.subscribe .moddle{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
+.subscribe .moddle h2{
+font-family: Volkhov;
+}
+.subscribe .moddle p{
+    color: #8A8A8A;
+}
+.subscribe .moddle input{
+border:none;
+height: 50px;
+box-shadow: 0 32.6px 13px 0 #000000,2;
+background-color: #FAFAFA;
+}
+.subscribe input::placeholder{
+    color: blue;
+    padding-left: 20px;
+}
+.subscribe .button-subsribe-btn a{
+    height: 50px;
+    width: 200px;
+    margin: auto;
+    padding-top: 10px;
+    margin-top: 20px;
+}
+
+
+
+/* footer */
+.footer address{
+margin-left: 370px;
+}
+
+
+
+/* Card */
+.sub-card h2{
+font-family: Volkhov;
+}
+.Para-sub-card{
+    color:#8A8A8A;
+}
+.Para-sub-card span{
+    color: black;
+    font-weight: 700;
+}
+.Card img{
+    width: 200px;
+    height: 300px;
+}
+.rigth-card h3{
+    font-size: 14px;
+    font-family: Volkhov;
+}
+.rigth-card h4{
+    color: #8A8A8A;
+}
+.details-under-card{
+    font-family: Volkhov ;
+    font-weight: 700;
+}
+.offcanvas-body button{
+    width: 300px;
+    height: 30px;
+    text-align: center;
+color: azure;
+
+}
+.view-card{
+    text-decoration: none;
+    color: black;
+    font-family:Volkhov ;
+    padding: 130px;
+}
+.iconCard{
+    padding-left: 1300px;
+}
